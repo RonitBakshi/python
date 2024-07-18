@@ -1,0 +1,705 @@
+First Token Time 52.096 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 31.514 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 27.53 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 47.144 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 16.273 | Email: manish.4waytechnologies@gmail.com
+A user disconnected xZ3Z91lmPvE6161VAAAN
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+user connected ASCUdbTNJEe6F-GXAAAz
+vacantSpots 4
+A user disconnected EoAem6ZYMRkM3n_eAAAR
+First Token Time 2.148 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 1.382 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.53 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.115 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.221 | Email: ronit.4waytechnologies@gmail.com
+user connected PI3GwKpkxPU_4299AAA1
+finish_reason stop
+finish_reason stop
+First Token Time 1.606 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.522 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 1.317 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.189 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.213 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 1.113 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.782 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 2.275 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 2.458 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.646 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.25 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 1.693 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 1.701 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.45 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 2.427 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 2.279 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.624 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.295 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.343 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 2.033 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.899 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.243 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.938 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 1.718 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.576 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.317 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.967 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.675 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 3.291 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 3.307 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 2.89 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 2.293 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.595 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.493 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 1.286 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.376 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.295 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 2.215 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.625 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 4.075 | Email: manish.4waytechnologies@gmail.com
+First Token Time 3.838 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 2.849 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 2.929 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 2.343 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 3.226 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 2.957 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 2.321 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.527 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 3.198 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 3.375 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 2.866 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.665 | Email: manish.4waytechnologies@gmail.com
+vacantSpots 3
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 3.026 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 3.275 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 2.236 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.896 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 3.64 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 4.271 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 4.054 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 2.871 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.728 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 4.382 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 4.004 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 4.456 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 2.762 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 2.761 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.891 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 2.501 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.51 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.609 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.955 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.941 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 2.733 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.963 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.631 | Email: manish.4waytechnologies@gmail.com
+First Token Time 2.367 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 1.911 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 2.048 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 3.692 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.455 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 2.054 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.715 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+vacantSpots 3
+First Token Time 5.204 | Email: manish.4waytechnologies@gmail.com
+First Token Time 3.717 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 4.347 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.793 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.982 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 2.042 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 2.091 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 4.849 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 4.68 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 4.307 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 3.544 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+vacantSpots 4
+First Token Time 2.849 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 3.785 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 2.35 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.932 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 2.038 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 4.543 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 4.072 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 2.324 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 3.21 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 4.427 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 3.102 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 2.379 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 4.885 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 2.371 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 2.478 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 2.415 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 2.625 | Email: manish.4waytechnologies@gmail.com
+First Token Time 3.938 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 3.793 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 4.791 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 4.558 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 3.967 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+vacantSpots 4
+First Token Time 3.094 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 3.709 | Email: manish.4waytechnologies@gmail.com
+First Token Time 3.319 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 4.749 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 4.451 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 4.46 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 8.938 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.723 | Email: manish.4waytechnologies@gmail.com
+First Token Time 2.4 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 4.172 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+vacantSpots 5
+First Token Time 3.724 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 4.85 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 2.975 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+vacantSpots 4
+First Token Time 7.268 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 2.461 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.94 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.812 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 3.701 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 2.889 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 3.622 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 2.918 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 4.771 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 3.339 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.295 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.626 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 4.052 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 6.981 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 3.143 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 3.365 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.695 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 5.864 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.275 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 5.093 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+user connected -7ITDYaBUthifUuUAAA3
+First Token Time 5.012 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.614 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 5.609 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 7.531 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 6.367 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 4.553 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 4.93 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 5.291 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 4.304 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 3.129 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 7.718 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+vacantSpots 4
+First Token Time 4.821 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 7.749 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 5.16 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 4.701 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 5.504 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 4.342 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 6.874 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 2.897 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.81 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 6.226 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 7.984 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 5.823 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+vacantSpots 4
+First Token Time 9.707 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.832 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 3.276 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 3.851 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 3.357 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 4.916 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 3.966 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 2.27 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 3.819 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+vacantSpots 3
+finish_reason stop
+First Token Time 4.343 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 5.45 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 4.559 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 3.306 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 3.957 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 2.729 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 5.195 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 4.901 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 4.646 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+vacantSpots 3
+First Token Time 7.498 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 3.123 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 3.035 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 2.811 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+A user disconnected A_zWAzPg6fZeV3tMAAAb
+First Token Time 2.45 | Email: ronit.4waytechnologies@gmail.com
+user connected k2KpMfaJ_3MngS5ZAAA5
+finish_reason stop
+First Token Time 4.565 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 2.942 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 4.445 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.451 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 2.449 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 2.449 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 4.332 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 3.755 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 4.913 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 7.75 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 3.478 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 3.884 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 3.121 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.591 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 4.868 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.47 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.444 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 2.456 | Email: anshpreet.4waytechnologies@gmail.com
+vacantSpots 5
+First Token Time 2.852 | Email: manish.4waytechnologies@gmail.com
+First Token Time 2.574 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 3.922 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 2.7 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+A user disconnected D3nC84eeHH6R8FyHAAAv
+vacantSpots 4
+First Token Time 4.58 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 5.433 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 2.914 | Email: manish.4waytechnologies@gmail.com
+user connected AntfgHVjkayhr_zgAAA7
+finish_reason stop
+First Token Time 1.99 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.485 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 4.169 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 2.499 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+vacantSpots 4
+First Token Time 5.081 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+A user disconnected BBZj-_4KG9Nhu0GqAAAt
+user connected Rvq7CULQa0hXBJAFAAA9
+First Token Time 2.616 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.428 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+vacantSpots 3
+First Token Time 2.432 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 3.261 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.444 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+vacantSpots 4
+First Token Time 2.619 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.427 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 3.109 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 2.68 | Email: sumit.4waytechnologies@gmail.com
+vacantSpots 3
+vacantSpots 3
+finish_reason stop
+finish_reason stop
+First Token Time 2.415 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+user connected kaalyggdD92Gd9kXAAA_
+First Token Time 2.423 | Email: sumit.4waytechnologies@gmail.com
+A user disconnected AntfgHVjkayhr_zgAAA7
+finish_reason stop
+A user disconnected kaalyggdD92Gd9kXAAA_
+A user disconnected VqOiPwgz4coC7LYdAAAX
+vacantSpots 6
+First Token Time 2.412 | Email: sumit.4waytechnologies@gmail.com
+user connected AHZDuZlBXPM5Gkj7AABB
+vacantSpots 5
+finish_reason stop
+First Token Time 3.241 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.889 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 3.125 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 4.42 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 2.439 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 2.424 | Email: sumit.4waytechnologies@gmail.com
+vacantSpots 4
+finish_reason stop
+A user disconnected Rvq7CULQa0hXBJAFAAA9
+First Token Time 2.367 | Email: sumit.4waytechnologies@gmail.com
+A user disconnected k2KpMfaJ_3MngS5ZAAA5
+user connected iJG5RwMM0FZvAzU_AABE
+user connected EQ7uuLvTIpMYGkifAABF
+finish_reason stop
+vacantSpots 4
+A user disconnected eFMW7kn7kGtYHmtbAAAx
+user connected 3cqqHC8mvgNAK0PGAABH
+First Token Time 3.832 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 2.716 | Email: manish.4waytechnologies@gmail.com
+First Token Time 2.662 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 2.675 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 6.498 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 7.393 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 3.657 | Email: manish.4waytechnologies@gmail.com
+First Token Time 2.541 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+vacantSpots 4
+First Token Time 3.887 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.424 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 3.627 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+A user disconnected iJG5RwMM0FZvAzU_AABE
+user connected MJn56CmzlxsqgbHCAABJ
+A user disconnected 3cqqHC8mvgNAK0PGAABH
+user connected hOuvFQ_1aE2beN71AABL
+First Token Time 3.854 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 3.725 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 3.198 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 2.981 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 3.764 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+vacantSpots 5
+First Token Time 8.932 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 8.109 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 8.126 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 12.928 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 3.489 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.463 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 3.972 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 2.733 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.676 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 4.93 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 5.43 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 2.97 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 5.488 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 3.897 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 3.027 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 3.223 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+vacantSpots 4
+vacantSpots 4
+First Token Time 2.669 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 3.582 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 7.555 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 7.859 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 7.319 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 2.455 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 2.549 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 3.633 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+A user disconnected hOuvFQ_1aE2beN71AABL
+user connected WKjQKfdiZtWfbdzUAABN
+First Token Time 3.841 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 3.26 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 5.471 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+JsonWebTokenError: jwt must be a string
+    at Object.module.exports [as verify] (/app/node_modules/jsonwebtoken/verify.js:64:17)
+    at verifyJwtToken (file:///app/src/utils/helper.ts:76:27)
+    at Array.<anonymous> (file:///app/src/socketListners/listners.ts:13:16)
+    at run (/app/node_modules/socket.io/dist/namespace.js:124:19)
+    at Namespace.run (/app/node_modules/socket.io/dist/namespace.js:135:9)
+    at Namespace._add (/app/node_modules/socket.io/dist/namespace.js:211:14)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+First Token Time 7.602 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 5.047 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+A user disconnected WKjQKfdiZtWfbdzUAABN
+First Token Time 3.853 | Email: sumit.4waytechnologies@gmail.com
+user connected KrroZlAN66f7aGpjAABR
+First Token Time 2.616 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+vacantSpots 4
+vacantSpots 4
+finish_reason stop
+First Token Time 4.194 | Email: sumit.4waytechnologies@gmail.com
+A user disconnected KrroZlAN66f7aGpjAABR
+First Token Time 3.607 | Email: yugansh.4waytechnologies@gmail.com
+user connected Qo8zEc25mAiV7cvbAABT
+finish_reason stop
+finish_reason stop
+First Token Time 2.589 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 3.312 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+vacantSpots 4
+First Token Time 5.477 | Email: sumit.4waytechnologies@gmail.com
+A user disconnected AHZDuZlBXPM5Gkj7AABB
+finish_reason stop
+user connected mVoOYp1o1GDoB2UTAABV
+First Token Time 7.004 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 2.589 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+vacantSpots 5
+First Token Time 2.748 | Email: manish.4waytechnologies@gmail.com
+First Token Time 2.408 | Email: chitranssh.4waytechnologies@gmail.com
+vacantSpots 4
+finish_reason stop
+finish_reason stop
+First Token Time 2.648 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 4.111 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+JsonWebTokenError: jwt must be a string
+    at Object.module.exports [as verify] (/app/node_modules/jsonwebtoken/verify.js:64:17)
+    at verifyJwtToken (file:///app/src/utils/helper.ts:76:27)
+    at Array.<anonymous> (file:///app/src/socketListners/listners.ts:13:16)
+    at run (/app/node_modules/socket.io/dist/namespace.js:124:19)
+    at Namespace.run (/app/node_modules/socket.io/dist/namespace.js:135:9)
+    at Namespace._add (/app/node_modules/socket.io/dist/namespace.js:211:14)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+First Token Time 3.826 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop

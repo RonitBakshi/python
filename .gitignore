@@ -1,0 +1,25 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Virtual environments
+.env/
+venv/
+
+# VSCode settings
+.vscode/
+
+# MacOS specific
+.DS_Store
+
+# General
+*.log
+*.tmp
+
+pygmalion-7b/
+models/
+chatreal_notes/

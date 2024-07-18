@@ -1,0 +1,39 @@
+Tree 
+
+Total Requests in Queue 7 | Total Response Time: 81.15235257148743 | First Token Time: 62.381203174591064
+Total Requests in Queue 0 | Total Response Time: 85.93690466880798 | First Token Time: 12.461259126663208
+Total Requests in Queue 8 | Total Response Time: 86.4382631778717 | First Token Time: 62.38047647476196
+Total Requests in Queue 1 | Total Response Time: 87.32495021820068 | First Token Time: 12.461181402206421
+Total Requests in Queue 9 | Total Response Time: 87.81849098205566 | First Token Time: 62.377540826797485
+Total Requests in Queue 5 | Total Response Time: 88.93312764167786 | First Token Time: 37.417388916015625
+Total Requests in Queue 2 | Total Response Time: 90.04565215110779 | First Token Time: 37.420056104660034
+Total Requests in Queue 3 | Total Response Time: 99.05211687088013 | First Token Time: 37.419703245162964
+Total Requests in Queue 4 | Total Response Time: 99.39485621452332 | First Token Time: 37.41970109939575
+Total Requests in Queue 6 | Total Response Time: 99.39224028587341 | First Token Time: 62.381442070007324
+
+
+NVLS
+
+Total Requests in Queue 0 | Total Response Time: 98.9533097743988 | First Token Time: 27.33007526397705
+Total Requests in Queue 8 | Total Response Time: 109.0995934009552 | First Token Time: 64.13179326057434
+Total Requests in Queue 2 | Total Response Time: 109.81556987762451 | First Token Time: 27.329585552215576
+Total Requests in Queue 1 | Total Response Time: 113.42474794387817 | First Token Time: 27.32971715927124
+Total Requests in Queue 3 | Total Response Time: 114.90728235244751 | First Token Time: 64.13663363456726
+Total Requests in Queue 6 | Total Response Time: 115.0183801651001 | First Token Time: 91.39546585083008
+Total Requests in Queue 4 | Total Response Time: 116.37912654876709 | First Token Time: 64.13560009002686
+Total Requests in Queue 7 | Total Response Time: 116.70874977111816 | First Token Time: 91.39510154724121
+Total Requests in Queue 9 | Total Response Time: 118.5618507862091 | First Token Time: 91.39473009109497
+Total Requests in Queue 5 | Total Response Time: 121.61610698699951 | First Token Time: 64.13453125953674
+
+CollnetChain
+
+Total Requests in Queue 7 | Total Response Time: 113.58148074150085 | First Token Time: 63.936814069747925
+Total Requests in Queue 6 | Total Response Time: 114.34454488754272 | First Token Time: 63.93696856498718
+Total Requests in Queue 1 | Total Response Time: 115.1805694103241 | First Token Time: 27.280362367630005
+Total Requests in Queue 9 | Total Response Time: 116.67752265930176 | First Token Time: 91.15669846534729
+Total Requests in Queue 0 | Total Response Time: 117.83428931236267 | First Token Time: 27.281003952026367
+Total Requests in Queue 3 | Total Response Time: 118.73784875869751 | First Token Time: 63.940024852752686
+Total Requests in Queue 8 | Total Response Time: 123.55883288383484 | First Token Time: 91.15655255317688
+Total Requests in Queue 2 | Total Response Time: 124.47971606254578 | First Token Time: 27.28030562400818
+Total Requests in Queue 5 | Total Response Time: 125.89562225341797 | First Token Time: 91.1611590385437
+Total Requests in Queue 4 | Total Response Time: 125.89691019058228 | First Token Time: 63.93923830986023
