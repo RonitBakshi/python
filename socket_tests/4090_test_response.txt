@@ -1,0 +1,1046 @@
+vacantSpots 5
+vacantSpots 6
+vacantSpots 5
+user connected PP_Mqlh7EG8vS9uXAACN
+vacantSpots 4
+First Token Time 3.59 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 0.926 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.335 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.239 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 0.947 | Email: anshpreet.4waytechnologies@gmail.com
+vacantSpots 3
+First Token Time 1.042 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 0.963 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.064 | Email: sumit.4waytechnologies@gmail.com
+BadRequest [Error]: Could not create transaction
+    at StripeWebhook.paymentIntentSucceededEventForSubscription (file:///app/src/services/stripewebhook.service.ts:172:13)
+    at stripeWebhookForSubscription (file:///app/src/controllers/stripewebhook.controller.ts:59:36)
+    at file:///app/src/utils/helper.ts:107:29
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at next (/app/node_modules/express/lib/router/route.js:149:13)
+    at /app/node_modules/body-parser/lib/read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (/app/node_modules/raw-body/index.js:238:16)
+    at done (/app/node_modules/raw-body/index.js:227:7)
+    at IncomingMessage.onEnd (/app/node_modules/raw-body/index.js:287:7)
+First Token Time 1.576 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.04 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.035 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 0.923 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.024 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.017 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.199 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 0.951 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.048 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.022 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.266 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.263 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.13 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 1.144 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.006 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.062 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.003 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.065 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 0.939 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.098 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 0.947 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.429 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.428 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+vacantSpots 3
+First Token Time 0.944 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.34 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+BadRequest [Error]: Could not create transaction
+    at StripeWebhook.paymentIntentSucceededEventForSubscription (file:///app/src/services/stripewebhook.service.ts:172:13)
+    at stripeWebhookForSubscription (file:///app/src/controllers/stripewebhook.controller.ts:59:36)
+    at file:///app/src/utils/helper.ts:107:29
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at next (/app/node_modules/express/lib/router/route.js:149:13)
+    at /app/node_modules/body-parser/lib/read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (/app/node_modules/raw-body/index.js:238:16)
+    at done (/app/node_modules/raw-body/index.js:227:7)
+    at IncomingMessage.onEnd (/app/node_modules/raw-body/index.js:287:7)
+First Token Time 1.012 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.228 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 1.309 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.096 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.508 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.045 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.192 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 1.207 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.094 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.249 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.031 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.328 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.278 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.151 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 1.778 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.571 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.318 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 0.956 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.252 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 0.996 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.078 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 1.428 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 0.993 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.147 | Email: sumit.4waytechnologies@gmail.com
+vacantSpots 3
+First Token Time 1.286 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.14 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 1.278 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.15 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.296 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.074 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.159 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.317 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.109 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.202 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.343 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.037 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 1.086 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.407 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 1.421 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.029 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.493 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 1.462 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.215 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.103 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 1.428 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.411 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.078 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 1.22 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.507 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.073 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.255 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.513 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 1.635 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.293 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.351 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.044 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 1.286 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.622 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+BadRequest [Error]: Could not create transaction
+    at StripeWebhook.paymentIntentSucceededEventForSubscription (file:///app/src/services/stripewebhook.service.ts:172:13)
+    at stripeWebhookForSubscription (file:///app/src/controllers/stripewebhook.controller.ts:59:36)
+    at file:///app/src/utils/helper.ts:107:29
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at next (/app/node_modules/express/lib/router/route.js:149:13)
+    at /app/node_modules/body-parser/lib/read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (/app/node_modules/raw-body/index.js:238:16)
+    at done (/app/node_modules/raw-body/index.js:227:7)
+    at IncomingMessage.onEnd (/app/node_modules/raw-body/index.js:287:7)
+First Token Time 1.431 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.064 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.339 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.445 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.088 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.465 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 1.535 | Email: ronit.4waytechnologies@gmail.com
+vacantSpots 3
+finish_reason stop
+finish_reason stop
+First Token Time 1.361 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.069 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 1.515 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.51 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.63 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.538 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.423 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 1.097 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.652 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.544 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.117 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.546 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.54 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.189 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 1.263 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.725 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 1.225 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 2.028 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 2.255 | Email: anshpreet.4waytechnologies@gmail.com
+A user disconnected suGfhM7UHLTPSKsHAABb
+finish_reason stop
+finish_reason stop
+finish_reason stop
+user connected gmOT6z_1OtW4ulPGAACP
+First Token Time 1.585 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.338 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.549 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 1.279 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 2.269 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 2.275 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.237 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 1.27 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.149 | Email: manish.4waytechnologies@gmail.com
+A user disconnected gmOT6z_1OtW4ulPGAACP
+finish_reason stop
+user connected H7XCXayChfg1grTzAACR
+finish_reason stop
+First Token Time 1.616 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.578 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.152 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.262 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 1.149 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.657 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.313 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 2.465 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.7 | Email: manish.4waytechnologies@gmail.com
+First Token Time 2.653 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 2.001 | Email: sumit.4waytechnologies@gmail.com
+A user disconnected H7XCXayChfg1grTzAACR
+user connected -AvTwiAt0ynt3bQJAACT
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.567 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 2.48 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 2.22 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.551 | Email: anshpreet.4waytechnologies@gmail.com
+A user disconnected -AvTwiAt0ynt3bQJAACT
+user connected BYdycyQQ5FSya1q3AACV
+BadRequest [Error]: Could not create transaction
+    at StripeWebhook.paymentIntentSucceededEventForSubscription (file:///app/src/services/stripewebhook.service.ts:172:13)
+    at stripeWebhookForSubscription (file:///app/src/controllers/stripewebhook.controller.ts:59:36)
+    at file:///app/src/utils/helper.ts:107:29
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at next (/app/node_modules/express/lib/router/route.js:149:13)
+    at /app/node_modules/body-parser/lib/read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (/app/node_modules/raw-body/index.js:238:16)
+    at done (/app/node_modules/raw-body/index.js:227:7)
+    at IncomingMessage.onEnd (/app/node_modules/raw-body/index.js:287:7)
+First Token Time 1.659 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.745 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.627 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.564 | Email: anshpreet.4waytechnologies@gmail.com
+A user disconnected BYdycyQQ5FSya1q3AACV
+user connected uJXq_yypiMrqJq-mAACX
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.255 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.016 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 2.12 | Email: anshpreet.4waytechnologies@gmail.com
+BadRequest [Error]: Subscription could not be updated
+    at StripeWebhook.subscriptionUpdatedEventForSubscription (file:///app/src/services/stripewebhook.service.ts:122:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async stripeWebhookForSubscription (file:///app/src/controllers/stripewebhook.controller.ts:71:9)
+    at async file:///app/src/utils/helper.ts:107:23
+First Token Time 1.207 | Email: manish.4waytechnologies@gmail.com
+A user disconnected YyAHXkSeLX3MJ1OUAACH
+finish_reason stop
+user connected HSEdsXxwfc2JaKErAACZ
+finish_reason stop
+First Token Time 1.662 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.335 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.54 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+A user disconnected uJXq_yypiMrqJq-mAACX
+finish_reason stop
+finish_reason stop
+First Token Time 1.268 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.523 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.337 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.677 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 2.488 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 2.593 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.62 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.398 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.354 | Email: manish.4waytechnologies@gmail.com
+First Token Time 2.057 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+vacantSpots 4
+First Token Time 2.927 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 2.256 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 3.664 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 2.422 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 3.735 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.366 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 2.023 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 2.065 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 2.655 | Email: manish.4waytechnologies@gmail.com
+First Token Time 2.565 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.547 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.835 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 2.232 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.334 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.814 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 2.034 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 2.136 | Email: manish.4waytechnologies@gmail.com
+First Token Time 2.864 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 2.369 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.833 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.364 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.312 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.656 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.539 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.381 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.591 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.596 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.613 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 2.134 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 2.604 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.889 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 2.193 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.409 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.561 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.586 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.431 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+BadRequest [Error]: Could not create transaction
+    at StripeWebhook.paymentIntentSucceededEventForSubscription (file:///app/src/services/stripewebhook.service.ts:172:13)
+    at stripeWebhookForSubscription (file:///app/src/controllers/stripewebhook.controller.ts:59:36)
+    at file:///app/src/utils/helper.ts:107:29
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at next (/app/node_modules/express/lib/router/route.js:149:13)
+    at /app/node_modules/body-parser/lib/read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (/app/node_modules/raw-body/index.js:238:16)
+    at done (/app/node_modules/raw-body/index.js:227:7)
+    at IncomingMessage.onEnd (/app/node_modules/raw-body/index.js:287:7)
+finish_reason stop
+First Token Time 1.845 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.551 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.701 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.488 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.544 | Email: manish.4waytechnologies@gmail.com
+user connected 8y1Bp49_TdnYq5A9AACb
+First Token Time 1.725 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.922 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.583 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 1.538 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.437 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.995 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.524 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.746 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.326 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 1.642 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.769 | Email: ronit.4waytechnologies@gmail.com
+A user disconnected 8y1Bp49_TdnYq5A9AACb
+user connected QjZo1tcn7W-Pc_8XAACd
+finish_reason stop
+First Token Time 1.581 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 2.044 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 2.293 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.435 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 1.538 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 2.306 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.67 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+vacantSpots 3
+First Token Time 1.62 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 2.108 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.552 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.592 | Email: manish.4waytechnologies@gmail.com
+First Token Time 2.036 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 2.279 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.505 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.535 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 2.011 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+A user disconnected QjZo1tcn7W-Pc_8XAACd
+BadRequest [Error]: Could not create transaction
+    at StripeWebhook.paymentIntentSucceededEventForSubscription (file:///app/src/services/stripewebhook.service.ts:172:13)
+    at stripeWebhookForSubscription (file:///app/src/controllers/stripewebhook.controller.ts:59:36)
+    at file:///app/src/utils/helper.ts:107:29
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at next (/app/node_modules/express/lib/router/route.js:149:13)
+    at /app/node_modules/body-parser/lib/read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (/app/node_modules/raw-body/index.js:238:16)
+    at done (/app/node_modules/raw-body/index.js:227:7)
+    at IncomingMessage.onEnd (/app/node_modules/raw-body/index.js:287:7)
+user connected bTkWlhQC0EPPWx1DAACf
+finish_reason stop
+First Token Time 1.638 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 2.232 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.522 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.984 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 2.221 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.512 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 1.566 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 3.448 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.552 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.581 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.529 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 1.559 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.765 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.559 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.703 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.369 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 1.951 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 1.643 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.638 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.825 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 2.276 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.571 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.569 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.614 | Email: anshpreet.4waytechnologies@gmail.com
+A user disconnected bTkWlhQC0EPPWx1DAACf
+finish_reason stop
+user connected irg05k1ez5pYQgINAACh
+First Token Time 1.632 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 1.329 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.566 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.703 | Email: anshpreet.4waytechnologies@gmail.com
+A user disconnected irg05k1ez5pYQgINAACh
+user connected p14muG_uynoA2Ry5AACj
+finish_reason stop
+BadRequest [Error]: Could not create transaction
+    at StripeWebhook.paymentIntentSucceededEventForSubscription (file:///app/src/services/stripewebhook.service.ts:172:13)
+    at stripeWebhookForSubscription (file:///app/src/controllers/stripewebhook.controller.ts:59:36)
+    at file:///app/src/utils/helper.ts:107:29
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at next (/app/node_modules/express/lib/router/route.js:149:13)
+    at /app/node_modules/body-parser/lib/read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (/app/node_modules/raw-body/index.js:238:16)
+    at done (/app/node_modules/raw-body/index.js:227:7)
+    at IncomingMessage.onEnd (/app/node_modules/raw-body/index.js:287:7)
+First Token Time 2.577 | Email: manish.4waytechnologies@gmail.com
+First Token Time 3.093 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 3.159 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 2.069 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 1.785 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.508 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 1.838 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.654 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.537 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.556 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.552 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 2.06 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 1.733 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.622 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+vacantSpots 3
+First Token Time 1.574 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.56 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.635 | Email: manish.4waytechnologies@gmail.com
+BadRequest [Error]: Could not create transaction
+    at StripeWebhook.paymentIntentSucceededEventForSubscription (file:///app/src/services/stripewebhook.service.ts:172:13)
+    at stripeWebhookForSubscription (file:///app/src/controllers/stripewebhook.controller.ts:59:36)
+    at file:///app/src/utils/helper.ts:107:29
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at next (/app/node_modules/express/lib/router/route.js:149:13)
+    at /app/node_modules/body-parser/lib/read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (/app/node_modules/raw-body/index.js:238:16)
+    at done (/app/node_modules/raw-body/index.js:227:7)
+    at IncomingMessage.onEnd (/app/node_modules/raw-body/index.js:287:7)
+finish_reason stop
+First Token Time 1.549 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.951 | Email: manish.4waytechnologies@gmail.com
+First Token Time 2.487 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 2.938 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.557 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.584 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.758 | Email: manish.4waytechnologies@gmail.com
+First Token Time 2.308 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 1.821 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.555 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.596 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.988 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.665 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.424 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+A user disconnected MfcZwxV4CYBGARPkAAB_
+First Token Time 2.064 | Email: ronit.4waytechnologies@gmail.com
+user connected VRERcvV2sxnkdh-RAACl
+First Token Time 2.122 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.577 | Email: sumit.4waytechnologies@gmail.com
+A user disconnected pMaW-uuO69jX2IvkAACD
+user connected PHHOgWSu_B8LfQ9rAACn
+finish_reason stop
+First Token Time 1.984 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.894 | Email: manish.4waytechnologies@gmail.com
+First Token Time 2.088 | Email: yugansh.4waytechnologies@gmail.com
+A user disconnected VRERcvV2sxnkdh-RAACl
+user connected tXhR4x8Yd9FqnhF5AACp
+finish_reason stop
+finish_reason stop
+First Token Time 2.798 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.641 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 2.275 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.654 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.569 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.447 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 2.429 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 3.024 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.626 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+A user disconnected PHHOgWSu_B8LfQ9rAACn
+user connected 8C1MhO1B4Ie1iDDvAACr
+First Token Time 1.532 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.532 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.882 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+A user disconnected tXhR4x8Yd9FqnhF5AACp
+user connected M2Ih5RXKDDxbiMx2AACt
+finish_reason stop
+finish_reason stop
+First Token Time 1.519 | Email: manish.4waytechnologies@gmail.com
+A user disconnected 8C1MhO1B4Ie1iDDvAACr
+user connected 3glSzSeirWyZT03HAACv
+First Token Time 1.546 | Email: ronit.4waytechnologies@gmail.com
+A user disconnected M2Ih5RXKDDxbiMx2AACt
+user connected phcmb49zxk2WLYSUAACx
+finish_reason stop
+finish_reason stop
+First Token Time 1.631 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 2.25 | Email: manish.4waytechnologies@gmail.com
+A user disconnected 3glSzSeirWyZT03HAACv
+A user disconnected phcmb49zxk2WLYSUAACx
+finish_reason stop
+First Token Time 1.81 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.607 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+vacantSpots 5
+First Token Time 1.563 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.711 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.894 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.385 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+vacantSpots 5
+finish_reason stop
+vacantSpots 4
+First Token Time 1.551 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.622 | Email: ronit.4waytechnologies@gmail.com
+user connected tIPz4gmCHXdCA3SsAACz
+finish_reason stop
+finish_reason stop
+First Token Time 1.694 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 2.279 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.541 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 1.588 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.734 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 2.281 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+A user disconnected tIPz4gmCHXdCA3SsAACz
+user connected pZXj4vlXnYbvlyJbAAC1
+BadRequest [Error]: Could not create transaction
+    at StripeWebhook.paymentIntentSucceededEventForSubscription (file:///app/src/services/stripewebhook.service.ts:172:13)
+    at stripeWebhookForSubscription (file:///app/src/controllers/stripewebhook.controller.ts:59:36)
+    at file:///app/src/utils/helper.ts:107:29
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at next (/app/node_modules/express/lib/router/route.js:149:13)
+    at /app/node_modules/body-parser/lib/read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (/app/node_modules/raw-body/index.js:238:16)
+    at done (/app/node_modules/raw-body/index.js:227:7)
+    at IncomingMessage.onEnd (/app/node_modules/raw-body/index.js:287:7)
+First Token Time 1.519 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.204 | Email: manish.4waytechnologies@gmail.com
+First Token Time 2.91 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 2.367 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.548 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.541 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.585 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 1.763 | Email: manish.4waytechnologies@gmail.com
+First Token Time 2.298 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.927 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.76 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.551 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+A user disconnected pZXj4vlXnYbvlyJbAAC1
+First Token Time 2.475 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 2.678 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 3.03 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.497 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+user connected z7S7eq_ibCTS_KFCAAC3
+First Token Time 1.793 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.53 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.8 | Email: yugansh.4waytechnologies@gmail.com
+vacantSpots 3
+First Token Time 1.573 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.543 | Email: sumit.4waytechnologies@gmail.com
+A user disconnected z7S7eq_ibCTS_KFCAAC3
+finish_reason stop
+First Token Time 1.653 | Email: ronit.4waytechnologies@gmail.com
+BadRequest [Error]: Could not create transaction
+    at StripeWebhook.paymentIntentSucceededEventForSubscription (file:///app/src/services/stripewebhook.service.ts:172:13)
+    at stripeWebhookForSubscription (file:///app/src/controllers/stripewebhook.controller.ts:59:36)
+    at file:///app/src/utils/helper.ts:107:29
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at next (/app/node_modules/express/lib/router/route.js:149:13)
+    at /app/node_modules/body-parser/lib/read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (/app/node_modules/raw-body/index.js:238:16)
+    at done (/app/node_modules/raw-body/index.js:227:7)
+    at IncomingMessage.onEnd (/app/node_modules/raw-body/index.js:287:7)
+finish_reason stop
+finish_reason stop
+finish_reason stop
+user connected bQVBObiCXdoQeNOPAAC5
+First Token Time 1.546 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.646 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.507 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 2.049 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.649 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 1.633 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.508 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.558 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.551 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.06 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 2.291 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.554 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.497 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.515 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.733 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.793 | Email: chitranssh.4waytechnologies@gmail.com
+First Token Time 3.038 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 2.371 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.799 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.597 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.569 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 1.55 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.577 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.825 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.649 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.544 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.644 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.779 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.542 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.616 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 2.698 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 1.696 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 2.682 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.542 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.602 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.548 | Email: manish.4waytechnologies@gmail.com
+First Token Time 1.847 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 2.371 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.537 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+A user disconnected bQVBObiCXdoQeNOPAAC5
+finish_reason stop
+First Token Time 1.612 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 2.292 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 1.612 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.778 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+user connected x8ibjC0g4HKDdwDfAAC7
+First Token Time 1.526 | Email: manish.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.792 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.47 | Email: chitranssh.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.576 | Email: manish.4waytechnologies@gmail.com
+A user disconnected x8ibjC0g4HKDdwDfAAC7
+finish_reason stop
+finish_reason stop
+First Token Time 1.53 | Email: sumit.4waytechnologies@gmail.com
+vacantSpots 3
+user connected W1nr84AH6ukgt9p5AAC9
+First Token Time 1.568 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.626 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+First Token Time 1.549 | Email: yugansh.4waytechnologies@gmail.com
+A user disconnected W1nr84AH6ukgt9p5AAC9
+BadRequest [Error]: Could not create transaction
+    at StripeWebhook.paymentIntentSucceededEventForSubscription (file:///app/src/services/stripewebhook.service.ts:172:13)
+    at stripeWebhookForSubscription (file:///app/src/controllers/stripewebhook.controller.ts:59:36)
+    at file:///app/src/utils/helper.ts:107:29
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at next (/app/node_modules/express/lib/router/route.js:149:13)
+    at /app/node_modules/body-parser/lib/read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (/app/node_modules/raw-body/index.js:238:16)
+    at done (/app/node_modules/raw-body/index.js:227:7)
+    at IncomingMessage.onEnd (/app/node_modules/raw-body/index.js:287:7)
+First Token Time 1.595 | Email: manish.4waytechnologies@gmail.com
+user connected R-KhIqN7vP4jwSNEAAC_
+finish_reason stop
+First Token Time 1.551 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.562 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.718 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 1.556 | Email: yugansh.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+finish_reason stop
+BadRequest [Error]: Could not create transaction
+    at StripeWebhook.paymentIntentSucceededEventForSubscription (file:///app/src/services/stripewebhook.service.ts:172:13)
+    at stripeWebhookForSubscription (file:///app/src/controllers/stripewebhook.controller.ts:59:36)
+    at file:///app/src/utils/helper.ts:107:29
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at next (/app/node_modules/express/lib/router/route.js:149:13)
+    at /app/node_modules/body-parser/lib/read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (/app/node_modules/raw-body/index.js:238:16)
+    at done (/app/node_modules/raw-body/index.js:227:7)
+    at IncomingMessage.onEnd (/app/node_modules/raw-body/index.js:287:7)
+First Token Time 1.955 | Email: manish.4waytechnologies@gmail.com
+First Token Time 2.267 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.539 | Email: ronit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.611 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.669 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.615 | Email: anshpreet.4waytechnologies@gmail.com
+First Token Time 1.65 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+user connected 1uJDXD7qjVj44yhOAADB
+finish_reason stop
+vacantSpots 5
+First Token Time 1.581 | Email: ronit.4waytechnologies@gmail.com
+First Token Time 1.728 | Email: sumit.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.541 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+First Token Time 1.966 | Email: sumit.4waytechnologies@gmail.com
+First Token Time 2.23 | Email: yugansh.4waytechnologies@gmail.com
+vacantSpots 4
+finish_reason stop
+finish_reason stop
+First Token Time 1.735 | Email: yugansh.4waytechnologies@gmail.com
+First Token Time 1.647 | Email: anshpreet.4waytechnologies@gmail.com
+finish_reason stop
+finish_reason stop
+First Token Time 1.764 | Email: chitranssh.4waytechnologies@gmail.com
+A user disconnected R-KhIqN7vP4jwSNEAAC_
+finish_reason stop
+user connected Vo8WNHOZdqlJs0_BAADD
+vacantSpots 3

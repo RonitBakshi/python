@@ -8,7 +8,7 @@ client = OpenAI(
 prompt = "Hello Elon, Can you tell me more about Space X"
 
 completion = client.chat.completions.create(
-    model="TheBloke/Amethyst-13B-Mistral-GPTQ",
+    model="model",
     messages = [ 
         {
             "role": "system",
@@ -95,7 +95,7 @@ response = ""
 
 for text in completion:
     if text.choices[0].delta.content:
-        #print(text.choices[0].delta.content,end="")
+        print(text.choices[0].delta.content,end="")
         response += text.choices[0].delta.content
 
 print(response)

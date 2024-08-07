@@ -35,7 +35,7 @@ def calculate_statistics(user_data):
     return stats
 
 # Path to the log file
-file_path = 'socket_tests/local_test_logs.txt'
+file_path = 'socket_tests/4090_test_response.txt'
 
 # Parse the log file and calculate statistics
 user_data = parse_log(file_path)
